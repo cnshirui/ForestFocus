@@ -77,6 +77,9 @@
 
 ## Requirements *(mandatory)*
 
+**Note:** All requirements must align with the project's constitution. Refer to `.specify/memory/constitution.md` for the guiding principles.
+
+
 <!--
   ACTION REQUIRED: The content in this section represents placeholders.
   Fill them out with the right functional requirements.

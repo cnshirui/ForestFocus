@@ -31,7 +31,11 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- **Radically Simple**: Is the feature's scope minimal and focused on the core user need?
+- **Offline-First**: Does the feature work without an internet connection?
+- **Test-First Development**: Are tests written before the implementation?
+- **High Performance**: Does the feature meet the 60fps and <2s cold start requirements?
+- **Accessibility**: Does the feature support VoiceOver and Dynamic Type?
 
 ## Project Structure
 

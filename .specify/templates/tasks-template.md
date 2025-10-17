@@ -2,6 +2,8 @@
 description: "Task list template for feature implementation"
 ---
 
+**Note:** All generated tasks must be compliant with the project's constitution. Refer to `.specify/memory/constitution.md` for the guiding principles.
+
 # Tasks: [FEATURE NAME]
 
 **Input**: Design documents from `/specs/[###-feature-name]/`
