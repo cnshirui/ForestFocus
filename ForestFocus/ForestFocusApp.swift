@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import SwiftData
 
 @main
 struct ForestFocusApp: App {
@@ -13,5 +14,6 @@ struct ForestFocusApp: App {
         WindowGroup {
             ContentView()
         }
+        .modelContainer(for: [Session.self, Tree.self])
     }
 }

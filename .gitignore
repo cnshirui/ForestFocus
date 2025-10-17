@@ -1,0 +1,42 @@
+# Xcode
+#
+# Created by https://www.toptal.com/developers/gitignore/api/xcode,swift
+# Edit at https://www.toptal.com/developers/gitignore?templates=xcode,swift
+
+### Swift ###
+# Standard Swift project files
+.build/
+Packages/
+*.xcodeproj
+*.xcworkspace
+
+# Swift Package Manager
+#
+# Add this line if you want to avoid checking in source code from Swift Package Manager dependencies.
+# Packages/
+
+### Xcode ###
+# Xcode
+#
+# gitignore contributors: remember to keep this file up to date with
+# https://github.com/github/gitignore/blob/main/Global/Xcode.gitignore
+
+## User-specific
+.DS_Store
+*.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
+*.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+*.xcworkspace/xcuserdata/
+
+## Build generated
+build/
+DerivedData/
+
+## Various
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# End of https://www.toptal.com/developers/gitignore/api/xcode,swift
